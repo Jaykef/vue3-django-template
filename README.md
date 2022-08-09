@@ -2,7 +2,6 @@
 Django REST + Vue.js 3 Template
 
 ![Vue Logo](/src/assets/logo-vue.png "Vue Logo")
-
 ![Django Logo](/src/assets/django-logo1.png "Django Logo")
 
 This template is a minimal example for an application using Vue and Django.
