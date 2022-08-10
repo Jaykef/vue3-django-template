@@ -1,4 +1,4 @@
-# vue3-django-template
+# Vu3 Django Template
 Django REST + Vue.js 3 Template
 
 ![Vue Logo](/src/assets/logo-vue.png "Vue Logo")
